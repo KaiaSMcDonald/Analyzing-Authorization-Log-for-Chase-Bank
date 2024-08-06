@@ -6,7 +6,7 @@ The 1st step I made was use the command 'curl -L "https://github.com/kura-labs-o
 I used this command to get the raw contents of the auth_log_creation.sh file within the repository that it is held in. 
 This is the result of running that command: 
 
-
+![Screenshot 2024-08-05](https://github.com/KaiaSMcDonald/Analyzing-Authorization-Log-for-Chase-Bank/blob/main/Screenshot%202024-08-05%20at%205.54.46%20PM.png) <br>
 
 
 
@@ -15,7 +15,7 @@ Following that I created a .sh file named "analyze_authlog.sh" that would includ
 The bash script included in "analyze_authlog.sh" is as follows: 
 
 
-
+![Screenshot 2024-08-05]() <br>
 
 
 
