@@ -56,7 +56,7 @@ I realized that the analyze_authlog.sh doesn't exist in the 'install-sh' reposit
 
 I successfully moved the script I created into the 'install-sh' repository but it seems like somewhere in my script I am unable to access the authorized log I need to analyze. <br>
 
-
+![Screenshot 2024-08-05](https://github.com/KaiaSMcDonald/Analyzing-Authorization-Log-for-Chase-Bank/blob/main/Screenshot%202024-08-05%20at%209.36.21%20PM.png) <br>
 
 
 
