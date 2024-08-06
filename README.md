@@ -30,6 +30,8 @@ without using IFS and '-r' the script will fail to read the file line by line an
 
 Afterwards I ran the "analyze_authlog.sh" script I created. Unfortunately I received an error stating the file I put for the input doesn't exists
 
+![Screenshot 2024-08-05](https://github.com/KaiaSMcDonald/Analyzing-Authorization-Log-for-Chase-Bank/blob/main/Screenshot%202024-08-05%20at%206.42.37%20PM.png) <br>
+
 In attempt to fix this issue I ran the command 'curl -o auth_log_creation.sh https://github.com/kura-labs-org/install-sh/blob/main/auth_log_creation.sh.<br>
 
 
