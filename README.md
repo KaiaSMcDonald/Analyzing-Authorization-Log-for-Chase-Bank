@@ -48,7 +48,7 @@ By using the following commands:<br>
 'cat auth_log_creation.sh'(I used this to look at the content of the script to see if everything is was downloaded successfully)
 
 
-
+![Screenshot 2024-08-05](https://github.com/KaiaSMcDonald/Analyzing-Authorization-Log-for-Chase-Bank/blob/main/Screenshot%202024-08-05%20at%209.23.25%20PM.png) <br>
 
 
 After running those commands I decided to run the analyze_authlog.sh I created but I received and error stating that no such file exists <br>
